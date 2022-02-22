@@ -1,0 +1,4 @@
+#Fri Nov 09 08:39:38 NPT 2018
+base.0=/Users/bibek/Downloads/PN/Travel-Mate-master/Android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
